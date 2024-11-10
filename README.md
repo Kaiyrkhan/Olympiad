@@ -1,1 +1,1 @@
-# Olympiad
+# Olympiad Networking Day
